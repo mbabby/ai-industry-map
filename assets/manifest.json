@@ -1,0 +1,77 @@
+{
+  "snapshot_date": "2026-11-26",
+  "attachments": [
+    {
+      "filename": "硅谷101-光通信-用户提供逐字稿.txt",
+      "path": "assets/硅谷101-光通信-用户提供逐字稿.txt",
+      "sha256": "b8b3fd4dbf34c93ea4984e7dff41d635b5390ce4aa249c9411e6cb6e4b536918"
+    },
+    {
+      "filename": "open-source-flywheel.png",
+      "path": "assets/open-source-flywheel.png",
+      "metadata_removed": true,
+      "sha256": "106d630c915ec5059ed5db7dfda448bd0a7947847088951aad8a286d44fe1d4b"
+    },
+    {
+      "filename": "general-world-model-map.png",
+      "path": "assets/general-world-model-map.png",
+      "metadata_removed": true,
+      "sha256": "2ced7ca0af13ee06eef22efd5fd7edba59ee45ced03ec5865fc54f4fafbc4295"
+    },
+    {
+      "filename": "PPT-张凯寓-怎么让AI真正干活-4.pdf",
+      "path": "assets/PPT-张凯寓-怎么让AI真正干活-4.pdf",
+      "pages": 54,
+      "redacted_regions": 2,
+      "ocr_checked": true,
+      "sha256": "7feb04efb5473a5254c4b413c49747954930747e75758e4bf44d78ae29807497"
+    },
+    {
+      "filename": "PPT-李健-商业地产企业怎么落地AI.pdf",
+      "path": "assets/PPT-李健-商业地产企业怎么落地AI.pdf",
+      "pages": 57,
+      "redacted_regions": 2,
+      "ocr_checked": true,
+      "sha256": "92a968a8318e2b740a33a8a0c6d013a7b4c5b0d833a7906ef6d0b2b64c83149d"
+    },
+    {
+      "filename": "PPT-邓飞舟-工业装备制造企业怎么落地AI-2.pdf",
+      "path": "assets/PPT-邓飞舟-工业装备制造企业怎么落地AI-2.pdf",
+      "pages": 55,
+      "redacted_regions": 2,
+      "ocr_checked": true,
+      "sha256": "43f3daa93eee03c682c977f2de7615585c83543ada81f696a2abdf06a3d952ef"
+    },
+    {
+      "filename": "PPT-魏俊-消费品制造企业怎么落地AI-__-2.pdf",
+      "path": "assets/PPT-魏俊-消费品制造企业怎么落地AI-__-2.pdf",
+      "pages": 72,
+      "redacted_regions": 3,
+      "ocr_checked": true,
+      "sha256": "00ae25c1794c559c1337a731ff828ec7ca7940681d37a7879011439752e44b64"
+    },
+    {
+      "filename": "PPT-黄雅悠-家具企业怎么落地AI.pdf",
+      "path": "assets/PPT-黄雅悠-家具企业怎么落地AI.pdf",
+      "pages": 36,
+      "redacted_regions": 2,
+      "ocr_checked": true,
+      "sha256": "991571eefdc86f8b102bc672834fcaf372db9ad917262430cb0db56bdc070dac"
+    },
+    {
+      "path": "assets/讲稿-硅谷101-Vitalik-捐赠-EA-与-AI-安全治理-MECE笔记.txt",
+      "filename": "讲稿-硅谷101-Vitalik-捐赠-EA-与-AI-安全治理-MECE笔记.txt",
+      "sha256": "c93e26a37fb0820f4954b96c1988e196c5ba22abb139bf0c9e28e98cccb57ba6"
+    },
+    {
+      "path": "assets/讲稿-硅谷101-Anthropic-崛起-公司治理-商业模式与-AI-安全争议.txt",
+      "filename": "讲稿-硅谷101-Anthropic-崛起-公司治理-商业模式与-AI-安全争议.txt",
+      "sha256": "65833ad151cde1ef9f63c910bd6c7fc32d52521683f459dea1d9956915d3817b"
+    },
+    {
+      "path": "assets/讲稿-AI-数据中心圆桌-能源约束-融资风险与未来算力需求.txt",
+      "filename": "讲稿-AI-数据中心圆桌-能源约束-融资风险与未来算力需求.txt",
+      "sha256": "8a6403560fb5fc20f030b5408130ba60406cff36b382afb48f5e5aac5dd72e97"
+    }
+  ]
+}

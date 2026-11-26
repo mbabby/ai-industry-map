@@ -1,0 +1,516 @@
+{
+  "snapshot_date": "2026-11-26",
+  "topics": 10,
+  "records": [
+    {
+      "title": "计算、存储与制造｜芯片如何形成可用算力",
+      "path": "topics/01-compute-memory-manufacturing/README.md",
+      "kind": "topic"
+    },
+    {
+      "title": "光通信与光互连｜技术路线、公司分工与关键判断",
+      "path": "topics/02-optical-interconnect/README.md",
+      "kind": "topic"
+    },
+    {
+      "title": "电力、数据中心与云｜算力如何建成并交付",
+      "path": "topics/03-power-datacenter-cloud/README.md",
+      "kind": "topic"
+    },
+    {
+      "title": "模型研发与开源｜能力如何形成并扩散",
+      "path": "topics/04-models-open-source/README.md",
+      "kind": "topic"
+    },
+    {
+      "title": "数据、仿真与评测｜训练反馈从哪里来",
+      "path": "topics/05-data-simulation-evaluation/README.md",
+      "kind": "topic"
+    },
+    {
+      "title": "Agent与基础软件｜把模型组织成能办事的系统",
+      "path": "topics/06-agents-software/README.md",
+      "kind": "topic"
+    },
+    {
+      "title": "应用与行业交付｜能力怎样变成付费需求",
+      "path": "topics/07-applications-delivery/README.md",
+      "kind": "topic"
+    },
+    {
+      "title": "端侧AI与智能硬件｜设备、边缘和云怎样分工",
+      "path": "topics/08-edge-ai-hardware/README.md",
+      "kind": "topic"
+    },
+    {
+      "title": "具身智能与机器人｜从零部件到整段工作流",
+      "path": "topics/09-embodied-robotics/README.md",
+      "kind": "topic"
+    },
+    {
+      "title": "产业竞争、资本与治理｜价值由谁留下",
+      "path": "topics/10-capital-competition-governance/README.md",
+      "kind": "topic"
+    },
+    {
+      "title": "挑战 GPU、绕过 HBM：Cerebras 与晶圆级芯片",
+      "path": "notes/挑战-GPU-绕过-HBM-Cerebras-与晶圆级芯片-a5022bb9.md",
+      "kind": "note"
+    },
+    {
+      "title": "推理芯片变局与 SK 海力士｜从 HBM 技术壁垒到稀缺溢价",
+      "path": "notes/推理芯片变局与-SK-海力士-从-HBM-技术壁垒到稀缺溢价-5eee584b.md",
+      "kind": "note"
+    },
+    {
+      "title": "内存产业学习笔记｜竞争格局、三星与海力士资本结构、美国制造业回流",
+      "path": "notes/内存产业学习笔记-竞争格局-三星与海力士资本结构-美国制造业回流-246bdb4c.md",
+      "kind": "note"
+    },
+    {
+      "title": "华为芯片与国产替代｜昇腾、先进制程、光刻机及量产边界",
+      "path": "notes/华为芯片与国产替代-昇腾-先进制程-光刻机及量产边界-9f0c0787.md",
+      "kind": "note"
+    },
+    {
+      "title": "人类会被困在1nm吗？光刻极限与芯片增长方式的切换",
+      "path": "notes/人类会被困在1nm吗-光刻极限与芯片增长方式的切换-ccdb1935.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI 走进芯片实验室｜材料生长、显微识别与器件制造",
+      "path": "notes/AI-走进芯片实验室-材料生长-显微识别与器件制造-ac7431d1.md",
+      "kind": "note"
+    },
+    {
+      "title": "黄仁勋辞任与英伟达接班｜揖斐电扩产的风险怎么分",
+      "path": "notes/黄仁勋辞任与英伟达接班-揖斐电扩产的风险怎么分-a6419bff.md",
+      "kind": "note"
+    },
+    {
+      "title": "原始素材｜硅谷101光通信逐字稿",
+      "path": "notes/原始素材-硅谷101光通信逐字稿-1142b8c3.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI 与能源｜约束、外部成本、技术进展与投资学习清单",
+      "path": "notes/AI-与能源-约束-外部成本-技术进展与投资学习清单-406f559c.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI 数据中心圆桌｜能源约束、融资风险与未来算力需求",
+      "path": "notes/AI-数据中心圆桌-能源约束-融资风险与未来算力需求-0aa10750.md",
+      "kind": "note"
+    },
+    {
+      "title": "中期选举之后，谁为 AI 数据中心买单？｜《硅谷101》笔记",
+      "path": "notes/中期选举之后-谁为-AI-数据中心买单-硅谷101-笔记-fdf88394.md",
+      "kind": "note"
+    },
+    {
+      "title": "Neocloud 2026复核｜CoreWeave、Nebius与AI算力泡沫的新位置",
+      "path": "notes/Neocloud-2026复核-CoreWeave-Nebius与AI算力泡沫的新位置-ab0fe5d2.md",
+      "kind": "note"
+    },
+    {
+      "title": "ChatGPT 的训练机制：从下一个 token 到强化学习推理",
+      "path": "notes/ChatGPT-的训练机制-从下一个-token-到强化学习推理-768f6a31.md",
+      "kind": "note"
+    },
+    {
+      "title": "从 DeepSeek、Kimi 到“黄仁勋联盟”：AI 模型开源，到底“开”了什么？",
+      "path": "notes/从-DeepSeek-Kimi-到-黄仁勋联盟-AI-模型开源-到底-开-了什么-69fcb482.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI 开源的增长飞轮：数据回流与新增需求",
+      "path": "notes/AI-开源的增长飞轮-数据回流与新增需求-be8dd474.md",
+      "kind": "note"
+    },
+    {
+      "title": "再访田渊栋：RSI、AI 自进化与 Neolab",
+      "path": "notes/再访田渊栋-RSI-AI-自进化与-Neolab-33d218ea.md",
+      "kind": "note"
+    },
+    {
+      "title": "田渊栋与 RSI：递归自我改进的技术进展与社会效应",
+      "path": "notes/田渊栋与-RSI-递归自我改进的技术进展与社会效应-1fcfd521.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI数学突破与前沿限速｜答案、理解与控制的三重边界",
+      "path": "notes/AI数学突破与前沿限速-答案-理解与控制的三重边界-7ac778ea.md",
+      "kind": "note"
+    },
+    {
+      "title": "通用世界模型｜第一性原理、五级能力地图与证据边界",
+      "path": "notes/通用世界模型-第一性原理-五级能力地图与证据边界-74fc5b40.md",
+      "kind": "note"
+    },
+    {
+      "title": "对话李飞飞×Huberman｜智能、主体性与空间智能的下一范式",
+      "path": "notes/对话李飞飞-Huberman-智能-主体性与空间智能的下一范式-fc1e0ba3.md",
+      "kind": "note"
+    },
+    {
+      "title": "读书笔记｜DeepSeek下大棋",
+      "path": "notes/读书笔记-DeepSeek下大棋-9e24493e.md",
+      "kind": "note"
+    },
+    {
+      "title": "谷歌 AI 的 14 年、Gemini 翻身与视觉推理：Andrew Dai",
+      "path": "notes/谷歌-AI-的-14-年-Gemini-翻身与视觉推理-Andrew-Dai-c5217745.md",
+      "kind": "note"
+    },
+    {
+      "title": "Gemini 4 Argon｜能力、评测、定价与长任务AI的边界",
+      "path": "notes/Gemini-4-Argon-能力-评测-定价与长任务AI的边界-fee0f31b.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI数据行业｜从标注外包到训练研发外包：E253的七条新增信息",
+      "path": "notes/AI数据行业-从标注外包到训练研发外包-E253的七条新增信息-48d88dc0.md",
+      "kind": "note"
+    },
+    {
+      "title": "揭秘数采工厂：机器人数据金字塔与数据生产难题",
+      "path": "notes/揭秘数采工厂-机器人数据金字塔与数据生产难题-568fe03e.md",
+      "kind": "note"
+    },
+    {
+      "title": "具身智能数据：从“数据量”竞争到“有效交互闭环”竞争",
+      "path": "notes/具身智能数据-从-数据量-竞争到-有效交互闭环-竞争-ec1d2100.md",
+      "kind": "note"
+    },
+    {
+      "title": "机器人数据规模定律验证到哪一步？｜硅谷101 × 实机实验与创业笔记",
+      "path": "notes/机器人数据规模定律验证到哪一步-硅谷101-实机实验与创业笔记-6199cae9.md",
+      "kind": "note"
+    },
+    {
+      "title": "群核科技：空间智能、数据壁垒与物理世界闭环",
+      "path": "notes/群核科技-空间智能-数据壁垒与物理世界闭环-19476034.md",
+      "kind": "note"
+    },
+    {
+      "title": "对话曹原｜AI for Science爆发：从生成模型到科学发现闭环",
+      "path": "notes/对话曹原-AI-for-Science爆发-从生成模型到科学发现闭环-1d20c3e6.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI与天文学｜从宇宙照片到数据洪流与注意力瓶颈",
+      "path": "notes/AI与天文学-从宇宙照片到数据洪流与注意力瓶颈-93d182b9.md",
+      "kind": "note"
+    },
+    {
+      "title": "吴恩达 Agentic AI｜从四种设计模式到可验证行动闭环",
+      "path": "notes/吴恩达-Agentic-AI-从四种设计模式到可验证行动闭环-9d16765f.md",
+      "kind": "note"
+    },
+    {
+      "title": "OpenClaw：长期 Agent 架构、记忆权限与安全边界",
+      "path": "notes/OpenClaw-长期-Agent-架构-记忆权限与安全边界-cfac47d6.md",
+      "kind": "note"
+    },
+    {
+      "title": "DeepSeek Harness：一切皆插件｜从交付结果到改造工作台",
+      "path": "notes/DeepSeek-Harness-一切皆插件-从交付结果到改造工作台-cd9ea5f0.md",
+      "kind": "note"
+    },
+    {
+      "title": "中美 AI Agent｜记忆工程与长期委托的应用讨论",
+      "path": "notes/中美-AI-Agent-记忆工程与长期委托的应用讨论-9bc35082.md",
+      "kind": "note"
+    },
+    {
+      "title": "Token经济与Agent工程｜从OpenClaw、Hermes到多Agent与奇点证据",
+      "path": "notes/Token经济与Agent工程-从OpenClaw-Hermes到多Agent与奇点证据-c652e15a.md",
+      "kind": "note"
+    },
+    {
+      "title": "Grok Bot × Cloudflare Wallets：数字员工如何获得经济行动能力",
+      "path": "notes/Grok-Bot-Cloudflare-Wallets-数字员工如何获得经济行动能力-8cbf19a4.md",
+      "kind": "note"
+    },
+    {
+      "title": "贝莱德《机器原生经济》｜从 Agent 支付到可信授权",
+      "path": "notes/贝莱德-机器原生经济-从-Agent-支付到可信授权-be552492.md",
+      "kind": "note"
+    },
+    {
+      "title": "Claude Tag：从私人助手到组织级共享 Agent",
+      "path": "notes/Claude-Tag-从私人助手到组织级共享-Agent-6b1293d7.md",
+      "kind": "note"
+    },
+    {
+      "title": "记忆工程学习总笔记｜核心框架、个人原则、产品图谱与 Honcho",
+      "path": "notes/记忆工程学习总笔记-核心框架-个人原则-产品图谱与-Honcho-d07bb380.md",
+      "kind": "note"
+    },
+    {
+      "title": "Jev调研与社区实践：低成本小判断、AI分工及公众号构思",
+      "path": "notes/Jev调研与社区实践-低成本小判断-AI分工及公众号构思-6a108703.md",
+      "kind": "note"
+    },
+    {
+      "title": "Manus 2.0与Cue｜从能做事到值得托付",
+      "path": "notes/Manus-2-0与Cue-从能做事到值得托付-b49ec800.md",
+      "kind": "note"
+    },
+    {
+      "title": "Agent交易与信任基建｜从补贴首单到放心托付",
+      "path": "notes/Agent交易与信任基建-从补贴首单到放心托付-0bdb8144.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI怎样真正进入工作｜任务、分工与交付",
+      "path": "notes/AI怎样真正进入工作-任务-分工与交付-2600effe.md",
+      "kind": "note"
+    },
+    {
+      "title": "得到 AI 落地大会｜五场企业实践会议报告",
+      "path": "notes/得到-AI-落地大会-五场企业实践会议报告-f3e58394.md",
+      "kind": "note"
+    },
+    {
+      "title": "读书笔记｜罗兰贝格：2026热潮褪去，回归现实——AI时代的客户服务",
+      "path": "notes/读书笔记-罗兰贝格-2026热潮褪去-回归现实-AI时代的客户服务-c4a2674d.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI漫剧与短剧｜产业链、工具链、版权与投资判断",
+      "path": "notes/AI漫剧与短剧-产业链-工具链-版权与投资判断-d6a59476.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI 制作 3D 游戏：Sac《小王子》案例与工作流笔记",
+      "path": "notes/AI-制作-3D-游戏-Sac-小王子-案例与工作流笔记-0101bd1e.md",
+      "kind": "note"
+    },
+    {
+      "title": "读书笔记｜2026双十一，电商们换货了",
+      "path": "notes/读书笔记-2026双十一-电商们换货了-b47f8ff8.md",
+      "kind": "note"
+    },
+    {
+      "title": "读书笔记｜中国新闻周刊：2026有意思生活方式报告",
+      "path": "notes/读书笔记-中国新闻周刊-2026有意思生活方式报告-0e3e51e0.md",
+      "kind": "note"
+    },
+    {
+      "title": "Datawhale FDE100案例集2026｜从容忍区间、专家瓶颈和组织翻译点寻找AI价值",
+      "path": "notes/Datawhale-FDE100案例集2026-从容忍区间-专家瓶颈和组织翻译点寻找AI价值-2dabb4cb.md",
+      "kind": "note"
+    },
+    {
+      "title": "2026微短剧精品创作与传播报告｜生产变容易，赢得观众仍然难",
+      "path": "notes/2026微短剧精品创作与传播报告-生产变容易-赢得观众仍然难-d7266d07.md",
+      "kind": "note"
+    },
+    {
+      "title": "对话高通：端侧智能体、6G 与 Physical AI",
+      "path": "notes/对话高通-端侧智能体-6G-与-Physical-AI-c43ffd70.md",
+      "kind": "note"
+    },
+    {
+      "title": "端侧智能体与 Physical AI：设备—边缘—云的任务分工",
+      "path": "notes/端侧智能体与-Physical-AI-设备-边缘-云的任务分工-cd83cd85.md",
+      "kind": "note"
+    },
+    {
+      "title": "CES 2026 观察笔记｜AI 硬件产品图谱与多图综述构思",
+      "path": "notes/CES-2026-观察笔记-AI-硬件产品图谱与多图综述构思-81029d72.md",
+      "kind": "note"
+    },
+    {
+      "title": "B站×第一财经：AI 智能硬件为何叫好不叫座？",
+      "path": "notes/B站-第一财经-AI-智能硬件为何叫好不叫座-b4460c61.md",
+      "kind": "note"
+    },
+    {
+      "title": "库克时代之后｜苹果、AI 原生硬件与资本配置",
+      "path": "notes/库克时代之后-苹果-AI-原生硬件与资本配置-bf70f7e5.md",
+      "kind": "note"
+    },
+    {
+      "title": "Agent 手机观察｜硅谷101解析与五项真实使用证据",
+      "path": "notes/Agent-手机观察-硅谷101解析与五项真实使用证据-f65fd711.md",
+      "kind": "note"
+    },
+    {
+      "title": "读书笔记｜尼尔森IQ：2027年消费科技趋势报告",
+      "path": "notes/读书笔记-尼尔森IQ-2027年消费科技趋势报告-20b5582d.md",
+      "kind": "note"
+    },
+    {
+      "title": "Physical AI 五条路线｜魔法原子、星海图、宇树、Figure 与特斯拉",
+      "path": "notes/Physical-AI-五条路线-魔法原子-星海图-宇树-Figure-与特斯拉-cf3a64fd.md",
+      "kind": "note"
+    },
+    {
+      "title": "宇树科技｜从机器狗到人形机器人：百亿企业的身体、生态与大脑之问",
+      "path": "notes/宇树科技-从机器狗到人形机器人-百亿企业的身体-生态与大脑之问-86714c16.md",
+      "kind": "note"
+    },
+    {
+      "title": "Physical Intelligence与机器人开源革命｜“免费大脑”背后的四派力量",
+      "path": "notes/Physical-Intelligence与机器人开源革命-免费大脑-背后的四派力量-1a6abc8c.md",
+      "kind": "note"
+    },
+    {
+      "title": "拆解机器人“肉身”：量产、供应链与系统整合",
+      "path": "notes/拆解机器人-肉身-量产-供应链与系统整合-a050829d.md",
+      "kind": "note"
+    },
+    {
+      "title": "人形机器人进厂的条件｜可靠性下限、工作利用率与可量产硬件",
+      "path": "notes/人形机器人进厂的条件-可靠性下限-工作利用率与可量产硬件-38612d5d.md",
+      "kind": "note"
+    },
+    {
+      "title": "2026配送机器人白皮书｜业务能否喂饱机器，决定自动化是否划算",
+      "path": "notes/2026配送机器人白皮书-业务能否喂饱机器-决定自动化是否划算-d754fdae.md",
+      "kind": "note"
+    },
+    {
+      "title": "从人形机器人运动会看产业信号：从能力竞赛走向量产与生产力",
+      "path": "notes/从人形机器人运动会看产业信号-从能力竞赛走向量产与生产力-ebabc25b.md",
+      "kind": "note"
+    },
+    {
+      "title": "Dyna Robotics访谈｜成功率、客户合格率与整段工作流的差距",
+      "path": "notes/Dyna-Robotics访谈-成功率-客户合格率与整段工作流的差距-e5d86372.md",
+      "kind": "note"
+    },
+    {
+      "title": "当机器人学会开可乐：灵巧手的不可能三角与六条技术路线",
+      "path": "notes/当机器人学会开可乐-灵巧手的不可能三角与六条技术路线-47438fce.md",
+      "kind": "note"
+    },
+    {
+      "title": "具身智能 ICL｜从看一次就会，到低成本适应与可靠交付",
+      "path": "notes/具身智能-ICL-从看一次就会-到低成本适应与可靠交付-36154956.md",
+      "kind": "note"
+    },
+    {
+      "title": "人形机器人量产：从单点动作到系统级可靠性",
+      "path": "notes/人形机器人量产-从单点动作到系统级可靠性-121d067f.md",
+      "kind": "note"
+    },
+    {
+      "title": "帕西尼专题｜触觉、灵巧手、商业化与自研替代",
+      "path": "notes/帕西尼专题-触觉-灵巧手-商业化与自研替代-6ad2e643.md",
+      "kind": "note"
+    },
+    {
+      "title": "2026触觉赛道：从融资热到量产验证",
+      "path": "notes/2026触觉赛道-从融资热到量产验证-24fcc441.md",
+      "kind": "note"
+    },
+    {
+      "title": "2026世界机器人大会｜亮点、缺陷、技术突破与判断框架",
+      "path": "notes/2026世界机器人大会-亮点-缺陷-技术突破与判断框架-8cb30d03.md",
+      "kind": "note"
+    },
+    {
+      "title": "量本利是人形机器人产业的宿命吗？",
+      "path": "notes/量本利是人形机器人产业的宿命吗-60da908d.md",
+      "kind": "note"
+    },
+    {
+      "title": "机器人商业化｜从舞台演示到工业交付的讨论与待核实材料",
+      "path": "notes/机器人商业化-从舞台演示到工业交付的讨论与待核实材料-3515002e.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI数据中心的万亿账单｜泡沫、循环融资与影子借贷",
+      "path": "notes/AI数据中心的万亿账单-泡沫-循环融资与影子借贷-d97e1b83.md",
+      "kind": "note"
+    },
+    {
+      "title": "英伟达供应商融资｜增长质量与客户的独立生存能力",
+      "path": "notes/英伟达供应商融资-增长质量与客户的独立生存能力-0fc4f99f.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI应用与英伟达财报：基础设施先赚钱，应用层正在追赶",
+      "path": "notes/AI应用与英伟达财报-基础设施先赚钱-应用层正在追赶-1d9ab209.md",
+      "kind": "note"
+    },
+    {
+      "title": "AI巨头Q2财报：四家公司情景排序与谷歌投资逻辑",
+      "path": "notes/AI巨头Q2财报-四家公司情景排序与谷歌投资逻辑-929cfd5d.md",
+      "kind": "note"
+    },
+    {
+      "title": "阿里与腾讯的AI下注｜智能供给、Agent调度与真实交付",
+      "path": "notes/阿里与腾讯的AI下注-智能供给-Agent调度与真实交付-c506f31f.md",
+      "kind": "note"
+    },
+    {
+      "title": "硅谷101｜Anthropic 崛起、公司治理、商业模式与 AI 安全争议",
+      "path": "notes/硅谷101-Anthropic-崛起-公司治理-商业模式与-AI-安全争议-c90c45a5.md",
+      "kind": "note"
+    },
+    {
+      "title": "Anthropic：使命文化、Agent全栈与美国国家安全路线",
+      "path": "notes/Anthropic-使命文化-Agent全栈与美国国家安全路线-c82ba58e.md",
+      "kind": "note"
+    },
+    {
+      "title": "Meta 的 AI 战略与组织重构｜收购、用人、授权和裁员",
+      "path": "notes/Meta-的-AI-战略与组织重构-收购-用人-授权和裁员-2111751a.md",
+      "kind": "note"
+    },
+    {
+      "title": "AMD拟收购World Labs｜为什么从投资走向收购",
+      "path": "notes/AMD拟收购World-Labs-为什么从投资走向收购-5c79e41b.md",
+      "kind": "note"
+    },
+    {
+      "title": "《公司进化论》｜买—抢—锁—换：英伟达与腾讯的成长选择",
+      "path": "notes/公司进化论-买-抢-锁-换-英伟达与腾讯的成长选择-ebe4c3a6.md",
+      "kind": "note"
+    },
+    {
+      "title": "高通与华为交叉专利许可｜交易事实、商业动机与判断边界",
+      "path": "notes/高通与华为交叉专利许可-交易事实-商业动机与判断边界-51a01e2c.md",
+      "kind": "note"
+    },
+    {
+      "title": "硅谷AI巨头为什么喊刹车｜安全风险、商业利益与规则制定权",
+      "path": "notes/硅谷AI巨头为什么喊刹车-安全风险-商业利益与规则制定权-bf266b00.md",
+      "kind": "note"
+    },
+    {
+      "title": "阿莫代伊彭博访谈与AI降速｜使命感、权力叙事与信任检验",
+      "path": "notes/阿莫代伊彭博访谈与AI降速-使命感-权力叙事与信任检验-f9258da0.md",
+      "kind": "note"
+    },
+    {
+      "title": "硅谷101｜Vitalik 捐赠、EA 与 AI 安全治理（MECE笔记）",
+      "path": "notes/硅谷101-Vitalik-捐赠-EA-与-AI-安全治理-MECE笔记-e68d8dd6.md",
+      "kind": "note"
+    },
+    {
+      "title": "OpenAI暂停前沿模型训练：Hugging Face越权事件与“安全税”",
+      "path": "notes/OpenAI暂停前沿模型训练-Hugging-Face越权事件与-安全税-e40678ad.md",
+      "kind": "note"
+    },
+    {
+      "title": "朱啸虎谈AI投资｜模型商品化、办公Agent与可承担的风险",
+      "path": "notes/朱啸虎谈AI投资-模型商品化-办公Agent与可承担的风险-33ad4334.md",
+      "kind": "note"
+    },
+    {
+      "title": "不同行业 AI 初创企业：价值集中、商业证据与中国机会",
+      "path": "notes/不同行业-AI-初创企业-价值集中-商业证据与中国机会-da1792b0.md",
+      "kind": "note"
+    },
+    {
+      "title": "扎克伯格的 AI 世界观与 Muse｜个人赋能、超级入口与分配权",
+      "path": "notes/扎克伯格的-AI-世界观与-Muse-个人赋能-超级入口与分配权-71d1b8cb.md",
+      "kind": "note"
+    }
+  ]
+}

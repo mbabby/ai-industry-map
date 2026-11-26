@@ -1,0 +1,491 @@
+0:26
+Wow, we almost got a full house. Uh so if you are here um I like like 9:40 on a Sunday morning, I guess you are either really love data center or you just smell money. Um either way, you're in the right room and we had great track record for that.
+
+0:46
+Uh Ethan and I, we were on the same panel last year talking about data center and our conclusion um came down to one line is um I don't know if you still remember we said data centers are the new oil. Right. And if you guys were um believed
+
+1:02
+in that and bullish about data center and new cloud for the past year, you probably have already doubled your money on stock markets. Um you're welcome. So this year uh we'll make sure the panel is as insightful as last year and
+
+1:18
+even spicier as Chen required. So Okay. So let's start with some introductions. Uh sure. Uh hi everyone. My name is Yixin and uh I'm currently working at Google and in charge of a a Google's data center planning and energy
+
+1:35
+strategy. And previously I worked at Microsoft, ByteDance also in charge of a similar energy strategy to support the uh very fast growth of data centers globally. And before that I worked at Brickster Energy focusing on the uh
+
+1:50
+clean energy transition etc. So I had the uh some experience in data center and energy and have been supporting these tech companies to grow fast very fast. They are uh watt scale of data centers worldwide. Nice to meet everyone.
+
+2:05
+Thank you. Thank you for having us here and thank you for getting up so early. Hopefully it pays off at the end of this panel. We're going to discuss a lot of like interesting stuff and just enjoy. And Alex. Let's start with some introductions and
+
+2:21
+have lots of questions for you. Sure. Yeah. Yeah, so my name's Alex, founder and CEO of GMI Cloud. GMI stands for General Machine Intelligence Cloud. I believe that we're moving into the General Machine Intelligence Age. I think this
+
+2:34
+is inevitable. And so my my mission also the company's mission is to accelerate the adoption for everyone, not just Frontier Labs or hyperscalers, but for everyone that wants to utilize AI. So we build foundational GPU infrastructure
+
+2:48
+across the world from Asia to US as well as our Kubernetes management layer for people who doesn't want to manage bare metals. So I'll say token factory, which right now we're processing about trillion plus token per day.
+
+3:04
+Okay. You said that I'll start with you because remember last year you mentioned the bottleneck of data centers energy, right? And especially the transmission and then generation. What do you think about like for the past year, right?
+
+3:22
+Is it still the same? What changed? Yeah, that's a good question. I think last year we talked about for United States we don't have sufficient electric power to support the very fast and large scale data center growth. The the main
+
+3:37
+bottleneck is transmission system, which is you can think of it as the high voltage transmission lines you see along the highways to deliver electricity from the generation all the way to the data center. I think in the past year a lot
+
+3:50
+of people realized a very cruel kind of fact, which is the United States is almost impossible to build large scale transmission system. So almost everyone gave up on that on solving that problem. So, they pivoted to solve another
+
+4:06
+problem, which is a if we cannot build transmission, which is kind of a similar like the highway, right? If we cannot build highway, how about just build the generations directly at your data center campus. So, I think this is why the past
+
+4:21
+12 months a lot of the so-called on-site generation or so-called behind the meter generations is picked as a solution to solve the data center electricity problem. I think some of the data I saw is that the roughly maybe 30 to 50% of the
+
+4:40
+this year's plan data center data centers, meaning that maybe in one or two years they will become alive. But plan data centers roughly 30 to 50% of them behind the meter generations solution. Meaning that a lot of a natural gas
+
+4:55
+turbines, large, medium, and small turbines, especially small turbines will be because we would know like General Electric's large generator gas turbines has already been sold out for many years. So, the small ones becomes the the the
+
+5:09
+kind of a hot products in the market. And also if you kind of follow the stock market, there's one company called Bloom Energy becomes very hot this year. Mainly Make sure you take notes. Yeah. Yeah, mainly because they are providing a
+
+5:26
+speed to power, meaning that they can really help you get the on-site generation online within several months, like within 3 to 6 months. And sometimes they claim they can do it within 60 days. And that becomes a very hot the
+
+5:40
+solution, which is the behind the meter. But of course, they do have other challenges, right? Like supply chain challenging, and also whether their technology is the mature enough for all the data centers. Right now, they are
+
+5:51
+still small scale. So, there are still risk associated with that. However, there are companies who is a seriously thinking about this solution, and some of them think this could be one of the big solution for data centers. But again, we may
+
+6:05
+This is still a new technology. But, this is one of the things people are thinking about, like how to solve the energy problem for data centers. So, I would say this year a big shift is that the people give up on solving the
+
+6:18
+transmission problem, but focusing on solving the on-site or behind the meter generation problem now. Okay, on the Bloom Energy, I know lots of new clouds use this technology. Is it also same with the hyperscalers? That Okay. Yeah, that's true.
+
+6:33
+Okay, so Bruce, I'm sure you invest in different parts of the AI data center energy. So, where do you think is the bottleneck and which part worries the most? Um yeah. Well, uh as a matter of fact, actually the whole
+
+6:48
+AI supply chain, energy included, is all we we are are in shortage uh significantly. And uh uh data center you know, power to data center is a big one. And it's not only about the equipment because in the US, I agree with the
+
+7:03
+Ethan. And uh uh just US infrastructure was not that good before this boom of AI build out. Uh but it also has its own like you know, advantage. Uh natural gas is the one. So, actually I fully agree. You know, behind the meter is the
+
+7:18
+solution. And it just takes time to build it out. And you need equipments like from like the names like GE, Siemens Energy, stuff like that. You also need a physical stuff, you know, constructions, labor, permits, all those things. Those are all the
+
+7:35
+bottlenecks we have to deal with and and solve this coming midterms, right? And uh states like Texas, Virginia, Ohio, they're all facing all the challenges, right? And do we have Do we have the permits? Do we have the local community
+
+7:51
+to support to build out all those ambitious like data centers? Those are the things we have to pay attention going forward. And I remain like very optimistic cuz in the end it's all about a trade-off. Of course, you know, the
+
+8:05
+when you build something new, it's going to have like a positive both positive and negative, you know, uh, impact on the local communities. So, the all the hyperscalers, neural cloud, they have to prove they can make it as a win-win
+
+8:18
+rather than just, you know, oh, I take everything up. Oh, I I I see the you know, the the direction of a travel, uh, it's it's it's to the right directions. So, uh, all those things, again, to summarize it up, all those are the challenges real
+
+8:32
+challenges we have to face. But, and the people have solutions. Yeah. So, that's where we are. So, we stay invested. Yeah. Okay. Um, I can tell that we are all very AI-fueled and then positive and bullish. Um, uh, just one quick gut
+
+8:48
+check. If you have to pick like, uh, one thing that you're really most short of right now, is it GPU, is it like a networking, a memory, power? Um, what would you pick? Okay. Well, uh, like what I said, and everything is a
+
+9:03
+huge shortages. Just just to different the extent. Uh, GPUs, uh, memories, and even like a below, uh, equipments, and, uh, substrates, and all those things. Even MLCC, you know, Taiwanese companies are benefit a lot from those, you know,
+
+9:19
+the shortages. Uh, it's just take you know, all those physical stuff it just takes time uh, to build them out. And, uh, if we have to pick something, uh, one direction, you know, it's giving the agency is picking up, you know, like a
+
+9:34
+people are not really very like, you know, CPU compute, right? The GPU to CPU that's ratio, uh, used to be just one to one. Now, it's become like four to one. Some people even like a bullish like a eight to one. Something like that. So,
+
+9:47
+that's where you see the, you know, a huge potentials. But, I the point I want to make, you know, uh, here we need to be a little bit, creative and, uh, open-minded. This is very early stage. This is a very early
+
+10:01
+stage. And, this is a pie growing story. It's not like who is going to win, who is going to lose. It's a whole pie is growing. So, that's one aspect I want people pay attention to. Second, it's also about like a technology advantage.
+
+10:16
+So, you know, you guys are the experts in this aspect, right? So, all the like a semi projects you have been doing for the hyperscalers, they're are so fundamentally different from the stuff you are you used to be working on. So,
+
+10:28
+that's going to also create a winners and the losers. Like for example, like a power semis used to be very very boring cyclical stuff. But now, given the GPU and the CPU are using like a more power high voltages, and that
+
+10:41
+becomes a very something very exciting we are looking into it. So, so this this is a exciting time. That's what I want to say. Sometimes you don't need to pick, okay, I have to like a GPU versus CPU, memory versus optics. I
+
+10:55
+I truly believe, you know, in the grand scheme of things, this is a growing pie starting. Yeah, that's great. Yeah. Okay, great. So, I don't know if you guys heard the news that Gemini Cloud just raised $668 million,
+
+11:11
+right? And well, congratulations first. Yeah. Thank you, guys. And I saw that you contracted also almost grow like 10 times in a year. So, what makes like Gemini like so different? I would say three things, right? Number one, I think
+
+11:33
+reliable and on-time compute is the most important thing, right? We can We have a lot of software layer that's built on top. But number one is providing on-time delivery and reliable compute. I think this is a very important thing. So, that means a
+
+11:50
+commanding a very strong supply chain relationship from Asia and expand globally. So, that's number one, supply chain. Number two is the East and West. So, as we face a lot of political headwind in the US, right? On mega builds, even smaller
+
+12:09
+smaller capacities, Uh, have data center footprints across US from East Asia to South Asia, Southeast Asia. Right, so it provides different uh locations um for companies that want to expand rapidly. So, that's number two.
+
+12:25
+And number three, of course, uh this is I guess the topic today, right? It's a a lot about the financing. Um we're able to tap into kind of the Asia capital. Um it used to be yen trade, but we have a NTD trade, which is Taiwanese dollar
+
+12:38
+trade. And we're able to uh leverage at a much lower foreign cost comparing to our peers in the US, which have to borrow about close to 10% or more. Oh, that's great. And with all the capital raised, what is still the
+
+12:54
+hardest thing to buy? Earlier this year, you mentioned like only link, right? And what about right now? Yeah, uh right now it's still power. I mean, power is the most most most critical issue. Um if you follow Jensen's kind of talk, you know,
+
+13:08
+Q2 earnings and all the uh Wall Street uh you know, chat, it's all about power shell. Uh so, this is a global phenomenon, not just in the US, but also happening globally. Uh compute that is uh power shell that is ready today or
+
+13:24
+even '27 is extremely rare. Okay, great. So, to this question, let's dive a little bit deeper. Like um so, if a company signs up for a megawatt today, this is might be for you, Ethan and Alex. Um and then how long until that turn into um usable
+
+13:42
+compute? Just give us a sense. Yeah, I think uh United States, normally the timeline is about the 2 years, maybe 2 and 1/2 years for the very large-scale data centers. We're talking about like a 500 MW above, like sometimes a gigawatt level. Uh
+
+13:58
+large data center. I think for for the smaller ones, it could be faster, maybe 1 and 1/2 year. But for large ones, that's roughly 2 years. And I do think maybe one thing I'd do kind of share with the audience is that
+
+14:09
+what I observed in the past half year, I think there is a potential huge risk to the whole data center and AI industry right now. And I think that delay? Yes. I think that is a delay of the data center. So right now a lot of data
+
+14:23
+center they are planned maybe last year, meaning that they are not delivered this year, but they were they are expected to be delivered in 2027 or 2028. So a lot of problems are not surfaced yet. And we do notice that like like Wall Street
+
+14:37
+Journal or other kind of investment bank reports they also mentioned that they observed like signs that they are delays across the board in United States. So I do think this it could be a huge risk. And there are a lot of reasons leading
+
+14:51
+to this delay risk. One of them is what we discussed, like electric power could be one issue, and all types of electric equipments could be another. And also there are all types of regulations new regulations like limiting the progress of data center
+
+15:07
+constructions. One one example is FAA like that's kind of a aviation regulation entity United States. It has nothing to do with data center, but somehow it is also having new regulations limiting data centers which are built near
+
+15:23
+airports. And they think there could be some safety issues. And other another thing is what Bruce mentioned like local community oppositions is becoming a huge trend in United States. If you are reading the mainstream medias United States like
+
+15:39
+Wall Street Journal etc. you will notice that there are a lot of stories about data centers. And all those stories are around the same narrative which is a they kind of make this whole thing kind of like the the the local community of
+
+15:53
+United States is against the AI industry or AI data center. It's unfortunate like all these stories are narrative like this because I personally do not believe that is a objective view. However, that's a that's a story like people click and view,
+
+16:10
+right? And it's not necessarily the the truth. But however, what's happening now is that before November's midterm election almost all the politicians in the United States, they are a kind of a kind of they're expressing
+
+16:25
+their views against data centers so they can get more votes to be elected before the during this midterm election and that becomes a trend now even in Texas, right? In early this year, the Texas governor is was fully supporting data center.
+
+16:43
+But a few months ago uh his view changed 180 80% 180 degrees, right? Completely against data centers and that's because of the local communities pressure on those politicians and that's could be another huge force like
+
+17:00
+causing the delay of the data centers. And I do think this could be a huge risk because maybe using one kind of a public data as example like SpaceX, right? They they SpaceX rented out some of the data centers to
+
+17:15
+Anthropic. I think the number is around like 300 MW of data centers and for almost 1 billion dollars a month, right? Triple the price compared to last year. Yeah, that's a huge price but but you can use this number as a reference
+
+17:31
+meaning that okay, so if for what 300 MW of data center it's worth 1 billion dollars per month what if there is a several gigawatt of data center which are delayed for 1 year? How how much revenue is going to be lost
+
+17:47
+or delayed because of the delay of the data center construction and if that number could be in terms of a 100 billion dollars for the whole industry? And we are also talking about financing this panel. So that means all the money
+
+18:02
+is put into data center constructions, you won't get it the revenue until maybe 1 year later and causing you a delayed 100 billion dollars of a revenue. And that's a huge blow to the industry, I think. So I think this could be a huge
+
+18:18
+risk if it's not managed well. Okay, so Alex, um um you just mentioned about like 2 years from you sign the power to get the compute. Is it the same to new clouds or that's actually your Yeah. Uh I think it depends on the scale that
+
+18:35
+you're talking about. Gigawatt compute obviously very very uh is a huge issue. And almost there's no way that grid can support a gigawatt scale, right? So, it's typically a mixed grid or behind a meter. And uh like what you were mentioning, uh behind
+
+18:51
+a meter uh basically you're using bloom or some sort of resip or some sort of uh turbines, right? And that means you're burning natural gas. And therefore, the most critical issue is actually air permits with the ESA on like carbon
+
+19:05
+carbon dioxide uh emission. Uh and so, basically anything that is not permitted right now that you haven't started construction, it's T plus 14 months, I would say. Even for a smaller scale uh modular builds, right? Uh skits is
+
+19:21
+probably at another 2 months, uh more or less. Uh and then you add another I would say 2 to 3 months on token. So, white space ready to token ready. So, you're talking about six 16 17 months if you haven't started any any construction.
+
+19:36
+Right. And so, uh I think it's a very dire situations. Uh in the past, our customers, including hyperscalers, um they don't want to talk about anything below say 100 MW. And now I've seen people asking for even 20 MW, 30 MW. Anything if you can
+
+19:52
+deliver before '27, that's awesome. Like they'll take everything. Um and uh yeah, that's kind of the situation right now. Um but this is in the US side. Uh I think Asia side you can have have it sooner, right? I think there's just more abundance uh
+
+20:12
+uh energy. Uh and also uh I think the governments, depends on which locations, are more supportive. Uh and it's kind of a top-down approach. Uh and so, uh you can have these kind of, uh, hundreds of megawatts of campuses that are being
+
+20:26
+built in a relatively swift fashion, but you still have to find, uh, different pockets. Yeah. Yeah, that could be a great strategy. Think about like, uh, Nvidia and those companies also go global, right? Um, and I want to kind of follow up on this
+
+20:43
+point you mentioned, uh, about the delayed. How much delay are we expecting? Uh, that's a good question. data center like hyperscale. I think, uh, there are some reports and numbers already out there like from, uh,
+
+20:56
+from maybe some analysis, maybe from, uh, different mainstream mediums. I think right now the trend is that no one really knows what's the scale, uh, of the delay, uh, but the based on all those data, we can roughly guess. Like,
+
+21:09
+I think maybe 10 to 20% of the data center could be delayed more than a year. Can I add one question? So, it's a matter of a delay or it's a matter of a cancellation? That's where I have troubles to really understand. You know,
+
+21:23
+if it's delayed, maybe it's a fine cuz the whole supply chain is so like, you know, toughen up. And but it's a cancel. So, like, that might be a bigger problem. So, I just want to get some sense from you guys. Yeah, uh, so I think it's
+
+21:35
+you got to understand, uh, clouds and data centers, it's a regionalized business, right? So, governor about, uh, right, kind of have a pause on the on the Texas side. And suddenly, our sites in Denver and Atlanta become really hot hot hot seek
+
+21:52
+assets, right? So, it's kind of like, oh, it's a regional event, all right, just hit pause on the on the on the, you know, Southwest side, and the Northeast becomes popular, right? And then everyone starts scram- scrambling.
+
+22:03
+Right? Uh, and so it's like it literally moves quarter by quarter. Right? And so, so our house view is basically, uh, basically start speculative builds around the world in East Asia and Southeast Asia as well as US elsewhere
+
+22:19
+that has less of a data center concentration. Right? Then you can find pockets of opportunities. And when time hits, when something happens, then you can pick up. Because we all have the contacts with kind of like hyperscalers and
+
+22:35
+in frontier labs, right? And so, when the projects get paused or canceled, then, you know, opportunities comes. But you got to be ready. Yeah, maybe just a follow-up of whose question. I I think mostly it's delayed,
+
+22:47
+not canceled. Yeah, I think a small percentage of them could be canceled, but most of it's just delayed. Okay. Thank you, guys. Yeah. Um nobody wants to cancel right now. Well, I actually have another question. So, like it just, you know, following
+
+23:03
+Alex's like answers. Uh from your perspective in the financing is the major problem or not? No, it's also actually just supply the shortage and, you know, those stuff. I I think it's definitely a huge issue. That's why you see, uh you know,
+
+23:19
+Broadcom or Nvidia, Google all stepping up on on the financing. Um and so, there's a huge mismatch in in the financing. And so, whoever can solve this, I think will uh you know, can can make a lot I guess there's a lot of opportunities. Call it
+
+23:35
+that way. So, data center is typically uh they require 12 to 15 years uh of these, right? Um but compute is typically, you know, 4 to 6 years. Right? And so, there's clearly a mismatch in terms of the uh contract
+
+23:52
+durations. Uh and so, data center folks, they really want certainty. Right? Uh of the lease. And therefore, there's different ways that Nvidia and Broadcom or or Google, the largest IGs to come in. And so, like the I guess most common
+
+24:07
+question when we go to data center operator or uh or power shell, they're like, "Okay, who's your IG?" Uh is it's being IG wrapped? Right? And so, that's becomes there's a basically a mismatch. Um and here's a solution, right? There's some
+
+24:22
+solutions. Basically, a lock box, right? You're you're you're putting kind of the cash flow of 5 6 years into a SPV and then that will get paid to the data center operator first. And there's some precedence that started that. Right? Or
+
+24:38
+some sort of residual value guarantee on a data center side, but everyone's trying to be creative right now. Um and uh yeah. And we had that video talking about the AI data center built out and uh that. And I'm sure lots of data centers
+
+24:53
+now started tapping to uh public credit. That's also like trillion-dollar market and uh AI data center is only 5% of that. And there will be lots of room switching from the traditional software uh credit to now the data center. And as
+
+25:08
+you're investor, what worries you on this side of, you know, the trillion-dollar credit and debt? All right. Uh I'll give audiences some perspective on that. We will we step back a little bit because we need to know where we are in
+
+25:21
+the, you know, the whole big picture. And uh everybody, like Ray Dalio Ray Dalio always talk about where the end of, you know, the peak of the leverage uh for the public sectors globally, right? Which is true. Uh which is very,
+
+25:35
+very true. We have to deal with with the the this problem. And the whole entire developed world is so leveraged up. So, they have to deleverage. You know, there are only like proven ways to deal with this. Today we are going to just focus
+
+25:50
+on one. Uh that one is uh growth. So, this is the Let's go back and like I mentioned this many times. That's one of his pitches, right? So, we need to grow out of our debt problems. And uh which is actually very true.
+
+26:06
+Looking at history, you know, that's the only way. The other way, not not only way, but the major way, we have to grow out of this. So, this is in the grand scheme of things. This is a historical mission for AI. Of
+
+26:18
+course, if it's not AI, it's going to be something else, but you know, AI is so fortunate like it's a fall onto AI's shoulder. So, this is huge The whole world needs AI to really grow. So, from that perspective, all the moneys are
+
+26:30
+going to come in in. Are going to come in in. So, that's you know, something you need to keep in mind. Second, uh this cycle is so different. This cycle is so different. Why? Cuz after '08, think about what happened.
+
+26:44
+So, public sector has been leveraging up, right? All the governments issue like a debt and then you know, printing money. So, they leverage up until today. They couldn't do it anymore. But, private sector private sector has
+
+26:58
+been deleveraging after '08. So, their balance sheet both corporate, especially in the US, both corporations and the households, their balance sheet are relatively very, very clean and healthy. So, what in the new cycle, it's going to
+
+27:14
+re it's going to reverse. It's going to reverse. Private sector is going to leverage up. The anchor is AI. AI give them an opportunity and excuse to leverage up. The public sector has to deleverage. So, that's the thing. That's the whole
+
+27:30
+scenario. The big picture we have to put ourselves in, right? So, because just like for so many years, you know, we are so used to asset-light business models. We are so used to free cash flows. We do not like companies to, you know,
+
+27:46
+leverage up. But, you know, that time has gone. We have to get used to this. Cuz sometimes when you hear people like, "Oh, uh like Oracle. Oracle's credit spread widen up." Right now, it's that a little bit crazy, to be honest with you. But,
+
+28:03
+that's not a collapse. That's call it a repricing. Oracle used to be a cash cow, right? From the credit perspective, it's so safe. Of course, the credit spread is really, really tight. But, now they have to change their business business models
+
+28:19
+to become relevant. So, that's the cost that you have to pay. So, that's why the credit spread is just widening up. It's normal. That's what I am trying to say. So, we are in this process. This is the first year, actually, private sector
+
+28:34
+seriously leverage up. It's going to It's going to be like this for the for foreseeable future. So, we have to get used to this, right? So, next year, like Amazon and even Meta is going to use all their free cash flows, so they have to
+
+28:47
+borrow. But, their balance sheet is so healthy. Their balance sheet is so healthy. And now, they're all in the investment grade, you know, categories. And it's still like it's been a fantastic year. The new issuance, if I
+
+29:01
+remember it correctly, year-to-date is around almost a half trillion. But, still, we have a lot of room. It's only like 7% something like that of the whole IG market. We haven't really used the, you know, a high-yield market yet. And
+
+29:14
+not to mention all the like private equities and private credits, you know. Financials used to be such a like a dirty word, but for this cycle, you have to do research on on the banking sectors. You really need to see how
+
+29:26
+those, you know, flows are Is the banking system is healthy enough? Has the capacity to support this kind of like leverage? You know, cuz we have limited time today. Cuz it's really, really, exciting, you know, topic to
+
+29:39
+talk about. The short answer is yes. It's really yes. The US banking system is so healthy and has the capacity to leverage up. What is Well, it really depends on you guys are able or are willing to borrow. If you dare to borrow, they dare to lend.
+
+29:59
+So, as simple as that. It is actually. Yeah. Alex, I'm sure that's great for you to hear. I'm not TRYING TO SAY LIKE THERE is no problems. So, there there will be. Even today, like, you know, hyperscalers are healthy. Semis are healthy. But, like,
+
+30:16
+you know, New York Cloud and some like power build up, they are not. Their credit spreads are so crazy. So, they might be the problem. But, this is so still so early. It's It really depends on how AI is growing. You know, if if if
+
+30:29
+if the revenue is coming up like better than people expected, you do not need this, you know, leverage. Leverage works as a a buffer, right? Cuz you know, perfect world, if you know, you generate a revenue right away, it covers your
+
+30:43
+CapEx. But which is not the case. And that's how capitalism works. During the early stage of the whole thing, you need this buffer. Buffer is leverage. That's all. Yeah. That's all I'm trying to say. That's so great to hear.
+
+30:58
+We're still very early in this AI time, so there's no bubble. Well, I I promised to make it spicy, so sorry. Well, it's it's actually a good question cuz I love a good challenge. At least in the equity space overall, do
+
+31:15
+you know like how much like what's the multiple for QQQ these days? Do you like I don't know if you pay attention or not. It's a a 21. 20 times 21 times like forward earnings next next year. It's cheap relative to the financial
+
+31:31
+conditions even after this running up of real yield. It's just cheap. Why is it cheap? Because QQQ right now is really a proxy. We did that research actually, you know, you can literally calculate secular growth premium, which
+
+31:48
+is, you know, all the premium risk premium excluding the excluding the cyclical, you know, uh premium. What's left is your secular growth premium. QQQ carries like what? 26%. S&P carries what? 14%. Small cap, that's the
+
+32:05
+trouble. They do not benefit this a lot. It's only 5%. So, you know, actually people you got to trust market. Market is very efficient. You know, market is not dumb at all. So, they price everything, you know, very rationally.
+
+32:20
+That's what I want to say. Yeah. Okay, great. Okay. Let's switch gear a little bit back to Alex. I'm sure you're you're happy to hear about like there are still lots of debt to borrow. And in that case, would do you just try to like get as
+
+32:38
+much as possible and expand as soon as possible. Well, yeah. Um So, you see in the market there's two two companies, right? With Nebius and CoreWeave. And CoreWeave has historically been emphasizing long-term contracts, 5 years, 6 years, right? And
+
+32:57
+they've done well. Um and you see Nebius, right? It which is like 50% is or I don't know that exact ratio is long-term compute and then 50% is uh is spots, right? Kind of speculative builds. And you see that um when the the supply is very constrained
+
+33:16
+and CoreWeave is unable to basically uh take advantage of the price increase of all the compute. And Nebius is able to kind of take advantage of that situation and charge a much higher premium to, you know, uh I think $25 to $30 or even $50 per watt.
+
+33:37
+Right? Where CoreWeave is is roughly 15. Um and so we're taking the same approach as well. So, we're we're building speculative builds uh as well as uh long-term long-term builds so that we uh remain healthy, right? And so on the
+
+33:51
+long-term builds we're able to borrow at a much lower cost of capital from US uh and Asia, right? Obviously it's not leveraged uh all the way up, but it has to be uh healthy. Um and so we kind of ring-fence uh all
+
+34:05
+the borrowing within each uh each and uh every uh SPVs. Uh and so so the company can grow uh on a healthy healthy pace. Uh I noticed you also start to do the sell token, right? So, the GPU hour is not enough. Is it just more for the
+
+34:21
+economics or there's a strategic Yeah, look. Okay, so you got to look at cloud business in general. Like, what is the fun fun Like, what is the business of a cloud cloud business? It's all about utilization rate, okay? It's like think
+
+34:36
+of a cloud as just like a massive laptop. If I lend it to you, right? And you use it 12 hours over time, right? You're not going to use more. And you have 12 hours left. So, I'm going to rinse that and then and then lend to
+
+34:50
+another person when you're asleep, right? That's what utilization is. So, if I lend to only one person, that utilization may be 50%. Right? Uh and so, the cloud business is all about increasing the utilization. So, take your empty cup, the long-term
+
+35:03
+compute, 5 years, 6 years contract, that's the pebbles and you put in the glass, right? You fill that to 50%. Great, you're cash flow positive, right? But you're not making too much margin. And then you just start throwing in
+
+35:15
+sand. And what is sand? That's short-term contract, 6 months, 1 year, 2 year, 3 years to fill that gap. And what do you do? You pour water in to fill that utilization up because you're going to have hot swap, right? Because we have
+
+35:28
+to fulfill our SLAs. So, you have like, say, five spare nodes or 10 spare nodes. What are we going to do? No one's going to rent that. So, you throw that onto a marketplace. And marketplace, not many people will absorb all these one node or
+
+35:40
+two nodes or three nodes. We have that platform, by the way. But you also turn that into tokens because that's in in a smaller increments and chunks. So, I do think that it's inevitable for neo clouds and also inference platform to consolidate
+
+35:55
+into a vertical stack because that is the only way uh for cloud to increase the the margin is by cutting the GPU time into smaller and smaller chunks. And that's what token business is about. Uh and so, token business for us is very
+
+36:11
+essential, right? Because all our computers are already sold out all the way to 2027 and end. But we have these spare hot swaps and and uh computer that we buy externally and we turn that into token. And to us, that's just pure margin.
+
+36:25
+Okay, great. Yeah. Um so, we don't have much time left, but I want uh let each panelist make some predictions for next year. You have to give a prediction and give a time. Who wants to start first? I can start cuz I'm a market guy. Okay.
+
+36:47
+Well, uh so here is the US equity market like a situation. Uh we are kind of like at the bottom of the valuation for a reason because of the financial condition has been tightening, you know, like it has nothing to do cloud AI. It's
+
+37:00
+just you know, the the US Treasury market is, you know, having a some like a dramatic moves. Uh which is a good thing cuz you need that to deal with all the inflation stuff, but hopefully going forward and the we can really deal with
+
+37:12
+the inflation things and that gives room. So, all I'm saying like, you know, financial conditions has kind of like peaked here. If that works out, if that works out, it's not enough to really damage the growth we have right now. So,
+
+37:25
+imagine QQQ year over year right now it's a 50% growth. And even this is slowing down a little bit. Let's do 40% something. You know, from the growth perspective, growth cycles, we are really in the middle of something. And also I encourage
+
+37:39
+everybody to be open-minded. This thing can last longer than you imagine. So, I'm actually very very positive, but I do not bet on the, you know, valuation stuff. It's really you find the places which has a solid resis- resilient growth.
+
+37:55
+Unfortunately, it's AI so far cuz all other cyclical stuff, house, you know, home builders, retailers, even like, you know, traditional industrials, you know, they have troubles because of higher, you know, interest they are interest
+
+38:08
+rate very sensitive. So, given this, you know, background, uh towards the end of this year, even the second half like last year first half last year, that's where I'm going to place my bet. Yeah. Uh to make it more concrete. Well, just
+
+38:22
+Very short, one sentence. Well, long AI that infrastructure by the way, yeah. Oh, oh in AI infrastructure. I don't want to pick winners or losers like given this is already, but you just have the broader exposure. I think that's the right play.
+
+38:36
+Okay. Okay. very minimum just one QQQ. I might come back to you. Okay, Ethan. Yeah, I think uh yeah, during It doesn't have to be a like a like anything. Yeah, a prediction. Yeah, during breakfast I talked with Bruce and I think we're pretty much
+
+38:51
+aligned. I think I do see some risks as I mentioned, like delays, etc. So, I do think there's there's going to be kind of a kind of a pains in the process, for sure. Uh meaning that there will be some up and downs, uh but I
+
+39:06
+in in in mid to long term, I'm very uh uh positive and optimistic about AI infra. And the looking at the demand for compute and the supply Yes. We have the demand and and the supply a mismatch with a gap. I I do think the power sector for uh AI infra
+
+39:27
+uh by the end of next year, even there will be some up and down, I think it's going to do really well. And even more specific, as you mentioned, that might be behind the meter. Related power generation. Behind the meter generation technologies
+
+39:40
+and actually uh similar to what the Bruce said, I think a lot of electrical equipments are going to benefit from it. Okay, Alex. Yeah. Uh so, one sentence, right? I think we will have a permanent uh compute shortage.
+
+39:54
+At least I can see that until 2030. I'll explain why. Okay? Right now, the market, if you look at there's like pre-training and post-training, right? But what is actually using compute? That's inference, right? Um it's mostly on the coding, coding uh
+
+40:09
+coding coding uh stuff from uh Codex to to Cloud Code, right? I think that's priced in. You also have multimodal, which is the image gen and video gen. You probably see that on Reels, on TikTok, whatnot. So, that's those people already see.
+
+40:24
+But, you got to understand uh talking to researcher, RSI is coming very, very soon. And that means that compute uh or AI is going to self-train and improve on itself without human in the loop. So, compute is demand is going to skyrocket
+
+40:40
+skyrocket. And talking to a lot of prominent researchers, their prediction is about from 6 months, as short as 6 months, uh two two years, to have that completed. Second thing, is the robotics, right? It's the first time we see that Astra is
+
+40:57
+able to utilize robots in a phenomenal way. Traditionally, we actually didn't even know whether uh robot generalization of robots works. You have to train on a specific task, like picking up mic mic, for example. But, Astra has shown
+
+41:14
+is it stretches first, it wiggles before moving things. So, now you see the light at the end of the tunnel, which is okay. Brute force, right? Continue to layer on compute, uh egocentric data, and we can get to true AGI with robotics.
+
+41:31
+Right? And what is the market now? Market is only on coding, basically. Right? And not to mention, like muse and instinct, which is consumer uh demand. That hasn't picked up. Right? So, we only price in on the business side. We didn't talk about
+
+41:47
+robotics. We didn't talk about consumer. Right? Uh and then also RSI. Incredible. We are just the beginning. Okay. All right, everyone. So, memorize all those predictions, and come back next year and see who was right. Thank you. Thank you.
